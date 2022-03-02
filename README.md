@@ -1,4 +1,4 @@
-# Lab_5_Django_Portfolio
+# Lab_6_Django_Portfolio
 ## activate virtual environment
 ```
 conda activate base
